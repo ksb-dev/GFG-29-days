@@ -20,7 +20,7 @@ class TwoSum {
 				break;
 			}
 
-			map.put(nums[y],y);
+			map.put(nums[y], y);
 		}
 
 		//System.out.println(map);
